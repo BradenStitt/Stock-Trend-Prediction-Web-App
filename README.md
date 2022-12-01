@@ -3,7 +3,8 @@ About:
 - Stock Trend Prediction Web App using yahoo finance, Facebook Prophet, and streamlit.
 
 Requirements:
-- pip install -r requirements.txt
+- run "pip install yfinance", 
+- run "pip install streamlit"
 
 Execution:
 
